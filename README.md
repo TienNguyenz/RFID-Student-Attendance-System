@@ -1,5 +1,5 @@
-# ProjectPython-FaceID
-Phần mềm điểm danh bằng nhận diện khuôn mặt
+# ProjectPython
+Phần mềm điểm danh bằng thẻ sinh viên
 
 # Installation
 
